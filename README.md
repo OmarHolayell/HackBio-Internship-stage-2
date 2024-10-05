@@ -1,6 +1,16 @@
 # HackBio-Internship-stage-2
 LabCalcHub (Web Application in R Shiny)
 
+# Authors
+
+Omar Holayell ( Holayell)
+
+Amira Mahmoud (amira4463)
+
+Manar Tarek (ManarTj)
+
+Noran Morad (NoranMorad)
+
 # link of our Wep Application : [LabCalcHub shiny wep app](https://labcalchub.shinyapps.io/new_folder/)
 
 # Documentation
@@ -15,7 +25,9 @@ https://github.com/OmarHolayell/HackBio-Internship-stage-2/blob/main/User%20Guid
 #The UI part of the code defines how your app will look and what elements (like buttons, inputs, and outputs).
 ```
 # Add custom CSS
+```r
 #Adds custom styles to change the appearance of the app. it sets the background color and font. tags$head( tags$style(HTML(" body { background-color: #ffffff; color: #000000; font-family: 'Arial', sans-serif; } .title-panel { font-family: 'Arial', sans-serif; text-align: center; color: #ffffff; background-color: #003366; /* Dark Blue / padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; gap: 20px; } .title-panel img { width: 80px; / Adjust the size of the image / height: auto; } .well { background-color: #f0f0f0; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); } .main-panel { background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); } h3, h4 { color: #003366; / Dark Blue / font-family: 'Arial', sans-serif; } h3 { font-size: 28px; font-weight: bold; } h4 { font-size: 24px; font-weight: bold; } .btn-primary { background-color: #003366; / Dark Blue / border-color: #003366; color: #ffffff; font-weight: bold; border-radius: 4px; } .btn-primary:hover { background-color: #002244; / Slightly Darker Blue / border-color: #002244; } .shiny-output-error { color: #ff4d4d; font-weight: bold; } .about-panel { background-color: #f0f0f0; padding: 20px; border-radius: 8px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); } .sidebar-column { padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); } .tab-panel-title { font-size: 36px; font-weight: bold; text-align: center; color: #003366; / Dark Blue */ margin-bottom: 20px; } ")) ),
+```
 
 # Title panel
 ```r
