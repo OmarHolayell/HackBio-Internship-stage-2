@@ -11,7 +11,7 @@ Manar Tarek (ManarTj)
 
 Noran Morad (NoranMorad)
 
-# link of our Wep Application : [LabCalcHub shiny wep app](https://labcalchub.shinyapps.io/new_folder/)
+# Web Application Link : [LabCalcHub shiny wep app](https://labcalchub.shinyapps.io/new_folder/)
 
 # Documentation
 https://github.com/OmarHolayell/HackBio-Internship-stage-2/blob/main/documentation.md
