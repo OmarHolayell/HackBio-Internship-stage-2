@@ -6,7 +6,8 @@ LabCalcHub (Web Application in R Shiny)
 # Documentation
 https://github.com/OmarHolayell/HackBio-Internship-stage-2/blob/main/documentation.md
 
-
+# User Guide
+https://github.com/OmarHolayell/HackBio-Internship-stage-2/blob/main/User%20Guide.md
 
 # Introduction
 ```r
